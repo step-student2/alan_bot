@@ -98,8 +98,6 @@ while True:
 
                     result += '\n'
 
-
-
             send_message(chat_id, result)
     else:
         print('No notifications')
